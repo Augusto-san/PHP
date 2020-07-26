@@ -1,4 +1,4 @@
-# PHP
+# PHP :elephant:
 Resumão com rascunhos das aulas de PHP
 
 ## Como visualizo os arquivos?
